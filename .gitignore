@@ -1,0 +1,4 @@
+# 本地安装产物（install.py 会把 js 复制到 ~/.claude）
+*.bak
+.DS_Store
+node_modules/
